@@ -1,10 +1,2 @@
-pandas
-selenium
-numpy
-openai
-lxml
-bs4
-openpyxl
 streamlit
-facebook-business
-genai
+pandas
